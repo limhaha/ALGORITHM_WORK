@@ -27,10 +27,10 @@ public class Main {
                 for (int j = 0; j < 9; j++) {
                     arr[ map[i][j] -1]++;
                 }
-                for (int k = 0; k < 9; k++) {
-                    if(arr[k]==0)
-
-                }
+//                for (int k = 0; k < 9; k++) {
+//                    if(arr[k]==0)
+//
+//                }
             }
         }
     }
